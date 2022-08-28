@@ -28,4 +28,4 @@ for key in user_details.items():
     print(f"The key is:{key}")
 
 for value in user_details.items():
-    print(f"The value is:{value}")``
+    print(f"The value is:{value}")
